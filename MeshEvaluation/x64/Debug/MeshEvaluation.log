@@ -1,0 +1,7 @@
+﻿  MyTriMesh.cpp
+D:\projects\MeshEvaluation\MeshEvaluation\MyTriMesh.cpp(122,82): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\projects\MeshEvaluation\MeshEvaluation\MyTriMesh.cpp(159,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\projects\MeshEvaluation\MeshEvaluation\MyTriMesh.cpp(160,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\projects\MeshEvaluation\MeshEvaluation\MyTriMesh.cpp(161,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\projects\MeshEvaluation\MeshEvaluation\MyTriMesh.cpp(308,53): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  MeshEvaluation.vcxproj -> D:\projects\MeshEvaluation\x64\Debug\MeshEvaluation.exe
